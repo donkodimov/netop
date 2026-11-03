@@ -13,6 +13,8 @@ Ideas for after v1. Nothing here is built by the loop until it moves into `specs
 ## Later monitoring ideas
 - Connection list per app with remote hostnames.
 - World map of remote endpoints (offline GeoIP database, e.g. DB-IP Lite, CC BY 4.0).
+- Detect a phone hotspot (`NWPath.isExpensive`) and show hotspot usage separately (v1 only splits by interface type).
+- High-usage alerts (the prototype's ALERT), e.g. only while on a hotspot.
 
 ## References
 - LuLu (GPL-3.0) — open-source per-app firewall using the same Network Extension approach: https://github.com/objective-see/LuLu

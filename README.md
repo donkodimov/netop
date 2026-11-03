@@ -1,6 +1,6 @@
 # netop
 
-A per-app network monitor for macOS. See which apps use your network, how much, and on which network (home internet or phone hotspot).
+A per-app network monitor for macOS. See which apps use your network, how much, and over which kind of connection (Wi-Fi, Ethernet or other).
 
 **Status:** early development. v1 only monitors; blocking/firewall features come later (see `docs/roadmap.md`).
 
